@@ -16,5 +16,16 @@
     "stimulus": "^1.1.1",
     "webpack": "^4.32.2",
     "webpack-dev-middleware": "^3.7.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "mutationobserver-shim": "^0.3.3"
+  },
+  "jest": {
+    "setupFiles": [
+      "./test/setup.js"
+    ],
+    "testRegex": ".*_test.js"
   }
 }

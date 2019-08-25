@@ -1,5 +1,9 @@
 # Stimulus Starter
 
+Fork adding Jest tests following [Hrvoje Šimić's blog post](https://shime.sh/testing-stimulus).
+
+---
+
 A preconfigured blank slate for exploring [Stimulus](https://github.com/stimulusjs/stimulus). Jump to [The Stimulus Handbook](https://stimulusjs.org/handbook/introduction) for an introduction.
 
 ---
